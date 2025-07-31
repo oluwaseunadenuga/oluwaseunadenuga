@@ -3,12 +3,12 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
@@ -116,17 +116,19 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Professional Experience Timeline
 
 ```
-2022 - Present  │ Senior Cybersecurity Analyst @ TechSecure Ltd
-                │ → Leading vulnerability management initiatives
-                │ → Implementing enterprise security frameworks
-                │
-2020 - 2022     │ Cybersecurity Specialist @ SecureFlow Solutions  
-                │ → Vulnerability assessments with Nessus & OpenVAS
-                │ → ISMS implementation and risk management
-                │
-2019 - 2020     │ Junior Security Analyst @ CyberGuard Inc
-                │ → Security monitoring and incident response
-                │ → Foundation in cybersecurity practices
+June 2025 - Present      │ Cybersecurity Analyst @ LogNPacific 
+                         │ → Leading vulnerability management initiatives
+                         │ → Implementing enterprise security frameworks
+                         │
+April 2024 - May 2022    │ Cybersecurity Specialist @ Infosec4  
+                         │ → Vulnerability assessments with Nessus & OpenVAS
+                         │ → ISMS implementation and risk management
+                         │
+October 2023 -July 2024  │ Information Security Business Analyst(Vulnerability and Cyber Essentials +)
+                         │ → Security monitoring and incident response
+                         
+June 2023 -September 2023│ Cybersecurity Analyst @ Testlio
+                         │ → Designed and executed a phishing email simulation, improving employee resilience against social engineering attacks
 
 ## Let's Connect
 
