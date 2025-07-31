@@ -9,10 +9,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 
-
 ### Key Specialisations
 - **Vulnerability Management** with Tenable & AWS
-- **SIEM** : Sentinel,Splunk
+- **SIEM** : **Sentinel, Splunk**
 - **Information Security Management Systems (ISMS)** Implementation
 - **Risk Assessment & Management**
 - **Business Continuity & Disaster Recovery**
@@ -42,23 +41,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-## Professional Achievements
-
-<div align="center">
-
-| Vulnerability Reduction |Response Time | Staff Trained | Compliance Rate |
-|:---------------------------:|:----------------:|:-----------------:|:-------------------:|
-| **85%** | **24 hours** | **500+** | **99.9%** |
-
-</div>
-
-## Featured Projects
-
-### Vulnerability Management with Tenable & AWS
-- Implemented a comprehensive vulnerability management solution
-- **85% reduction** in security exposure across enterprise infrastructure
-- Technologies: `Tenable` `AWS` `CVSS`
-
 ### Call Centre Security Assessment
 - Conducted a thorough vulnerability assessment using Nessus Essentials
 - Identified and remediated critical security gaps in PCI DSS environment
@@ -81,7 +63,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ### Business Continuity Planning
 - Developed comprehensive BCP and disaster recovery plans
-- Minimized downtime and ensured organizational resilience
+- Minimised downtime and ensured organizational resilience
 - Technologies: `BCP` `Disaster Recovery`, `Risk Management`
 
 ## Certifications & Training
@@ -90,33 +72,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **ISO 27001 Lead Implementer** (2023)
 - **CISSP** (In Progress)
 - **AWS Security Specialty** (Planned)
-
-## Professional Experience Timeline
-
-```
-June 2025 - Present      │ Cybersecurity Analyst @ LogNPacific 
-                         │ → Leading vulnerability management initiatives
-                         │ → Implementing enterprise security frameworks
-                         │
-April 2024 - May 2022    │ Cybersecurity Specialist @ Infosec4  
-                         │ → Vulnerability assessments with Nessus & OpenVAS
-                         │ → ISMS implementation and risk management
-                         │
-October 2023 -July 2024  │ Information Security Business Analyst@ University of East Anglia(Vulnerability and Cyber Essentials +)
-                         │ → Vulnerability and Cyber Essentials
-                                                
-June 2023 -September 2023│ Cybersecurity Analyst @ Testlio
-                         │ → Designed and executed a phishing email simulation, improving employee resilience against social engineering attacks
-
-## Let's Connect
-
-I'm always interested in collaborating on cybersecurity projects and sharing knowledge with the security community. Whether you're looking for:
-
-- **Security Consultation**
-- **Vulnerability Assessment**
-- **ISMS Implementation**
-- **Risk Management**
-- **Incident Response Planning**
-
-Feel free to reach out!
 
