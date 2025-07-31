@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/oluwaseunadenuga/">Oluwaseun Adenuga</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/oluwaseunadenuga/">Oluwaseun Adenuga</a>'s IT and Cybersecurity Project Portfolio
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
@@ -124,9 +124,9 @@ April 2024 - May 2022    │ Cybersecurity Specialist @ Infosec4
                          │ → Vulnerability assessments with Nessus & OpenVAS
                          │ → ISMS implementation and risk management
                          │
-October 2023 -July 2024  │ Information Security Business Analyst(Vulnerability and Cyber Essentials +)
-                         │ → Security monitoring and incident response
-                         
+October 2023 -July 2024  │ Information Security Business Analyst@ University of East Anglia(Vulnerability and Cyber Essentials +)
+                         │ → Vulnerability and Cyber Essentials
+                                                
 June 2023 -September 2023│ Cybersecurity Analyst @ Testlio
                          │ → Designed and executed a phishing email simulation, improving employee resilience against social engineering attacks
 
