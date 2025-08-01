@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Vulnerability Assessment Project using Nessus Essentials
 
-- **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
+- **[Vulnerability Assessment with Nessus Essentials](https://github.com/oluwaseunadenuga/Vulnerability-Assessment))**
 
 
 
