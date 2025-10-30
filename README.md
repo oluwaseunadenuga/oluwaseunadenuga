@@ -16,4 +16,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## GRC Project: APT breach: Analysing the impact on information security Project
 
-- **[APT breach:Analysisng the impact on information security]([https://github.com/oluwaseunadenuga/grc_project])**
+- **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project])**
