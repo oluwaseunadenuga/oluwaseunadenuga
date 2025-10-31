@@ -18,5 +18,5 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
-## Conducting Cybersecurity Risk Assessment for an Information Technology Services Company
+## Cybersecurity Risk Assessment for an Information Technology Services Company
 - **[Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
