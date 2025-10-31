@@ -14,9 +14,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Assessment with Nessus Essentials](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
 
-## GRC Project: APT breach: Analysing the impact on information security Project
+##  APT breach: Analysing the impact on information security Project
 
 - **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project])**
 
 ## Datacom-Cybersecurity-Risk-Assessement
-- ##[Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/grc_project)**
+-** [Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/grc_project)**
