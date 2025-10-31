@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ##  APT breach: Analysing the impact on information security Project
 
-- **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project])**
+- **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
 ## Datacom-Cybersecurity-Risk-Assessement
 - **[Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement])**
