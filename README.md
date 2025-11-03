@@ -27,9 +27,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 **CERTIFICATIONS**
 - Certified ISO/IEC 27001:2022 Lead Auditor, July 2025, Mastermind Assurance
 - GRC Analyst Master Class, Simply Academy, July 2025 
--** Cisco Introduction to Cybersecurity, July 2025**
-**-**Qualys Vulnerability Management Foundation Certificate, January 2025 ****
-**-**Datacom Cybersecurity Job Simulation, Forage, January 2025 ****
+- Cisco Introduction to Cybersecurity, July 2025
+- Qualys Vulnerability Management Foundation Certificate, January 2025
+- Datacom Cybersecurity Job Simulation, Forage, January 2025
 **-** Mastercard Cybersecurity Job Simulation, Forage, January 2025 ****
 **-**Tata Group Cybersecurity Analyst Job Simulation, Forage, January 2025 ****
 **-**Scrum Fundamental Certified, SCRUM study, June 2023 ****
