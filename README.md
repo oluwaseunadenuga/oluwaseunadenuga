@@ -30,6 +30,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - Cisco Introduction to Cybersecurity, July 2025
 - Qualys Vulnerability Management Foundation Certificate, January 2025
 - Datacom Cybersecurity Job Simulation, Forage, January 2025
-**-** Mastercard Cybersecurity Job Simulation, Forage, January 2025 ****
-**-**Tata Group Cybersecurity Analyst Job Simulation, Forage, January 2025 ****
-**-**Scrum Fundamental Certified, SCRUM study, June 2023 ****
+- Mastercard Cybersecurity Job Simulation, Forage, January 2025
+- Tata Group Cybersecurity Analyst Job Simulation, Forage, January 2025
+- Scrum Fundamental Certified, SCRUM study, June 2023
