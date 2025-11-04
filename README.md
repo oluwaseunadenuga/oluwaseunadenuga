@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Implementing Risk Assessment for an Information Technology Services Company
 - **[Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
 
-##  Implementing Risk Management Strategies for a Call Center Security
+##  Call Center Risk Assessment
 - **[Implementing Risk-Management Strategies for a Call Center Security](https://github.com/oluwaseunadenuga/Risk-Management-for-Call-Center-Security)**
 
 ## **CERTIFICATIONS**
