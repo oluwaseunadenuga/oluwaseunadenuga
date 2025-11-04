@@ -4,18 +4,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## Vulnerability Management Project using Tenable and Azure
-
-
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
-
 ## Vulnerability Assessment Project using Nessus Essentials
-
 - **[Vulnerability Assessment with Nessus Essentials](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
-
 ##  APT breach: Analysing the impact on information security Project
-
 - **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
 ## Cybersecurity Risk Assessment for an Information Technology Services Company
@@ -32,4 +26,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - Datacom Cybersecurity Job Simulation, Forage, January 2025
 - Mastercard Cybersecurity Job Simulation, Forage, January 2025
 - Tata Group Cybersecurity Analyst Job Simulation, Forage, January 2025
-- Scrum Fundamental Certified, SCRUM study, June 2023**
+- Scrum Fundamental Certified, SCRUM study, June 2023
