@@ -21,6 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## **CERTIFICATIONS**
 - IBM Vulnerability Management, January 2026
 - Cisco Introduction to Cybersecurity, December 2025
+- Vulnerability Assessment Lab, Hack the Box, November 2025, 
 - Vulnerability Management with Nessus, October 2025
 - Certified ISO/IEC 27001:2022 Lead Auditor, July 2025, Mastermind Assurance
 - Qualys Vulnerability Management Foundation Certificate, January 2025
