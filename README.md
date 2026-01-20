@@ -19,7 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Implementing Risk-Management Strategies for a Call Center Security](https://github.com/oluwaseunadenuga/Risk-Management-for-Call-Center-Security)**
 
 ## **CERTIFICATIONS**
-
+- IBM Vulnerability Management, January 2026, IBM Skillsbuild
 - Certified ISO/IEC 27001:2022 Lead Auditor, July 2025, Mastermind Assurance
 - GRC Analyst Master Class, Simply Academy, July 2025 
 - Cisco Introduction to Cybersecurity, July 2025
