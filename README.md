@@ -9,8 +9,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ##  Vulnerability Management with Tenable Nessus Essentials and Metasploit2
 - **[Vulnerability Assessment with Nessus Essentials and Metasploit2](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
-##  Vulnerability Management with Nessus Essentials
-- **[Vulnerability Assessment with Nessus Essentials](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
+##  Vulnerability Management with Nessus Essentials and Windows Virtual Machine
+- ****
 
 ##  APT Breach: Analysing the impact on information security Project
 - **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
