@@ -15,10 +15,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Analysing the impact of APT Breach on information security Project
 - **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
-## Implementing Risk Assessment for an Information Technology Services Company
+## Implementing Risk Assessment in a Telecom Services Company
 - **[Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
 
-##  Call Center Risk Assessment
+##  Implementing Risk Assessment in a Contact Centre Organisation
 - **[Implementing Risk-Management Strategies for a Call Center Security](https://github.com/oluwaseunadenuga/Risk-Management-for-Call-Center-Security)**
 
 ## **CERTIFICATIONS**
