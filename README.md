@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Vulnerability Management Project using Tenable and Azure
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
-##  Vulnerability Management with Nessus Essentials and Metasploit2
+##  Vulnerability Management with Tenable Nessus Essentials and Metasploit2
 - **[Vulnerability Assessment with Nessus Essentials](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
 ##  Vulnerability Management with Nessus Essentials
