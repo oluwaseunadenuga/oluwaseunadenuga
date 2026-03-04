@@ -6,13 +6,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Tenable vulnerability scanning lab with Azure VM - credentialed scans and finding analysis
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
-##  Nessus vulnerability scanning lab with Metasploit2- credentialed scans and finding analysis
+##  Nessus vulnerability scanning lab with Metasploit2-uncredentialed scans
 - **[Vulnerability Assessment with Nessus Essentials and Metasploit2](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
 ##  Nessus vulnerability scanning lab - credentialed scans and finding analysis
 - **[Vulnerability Assessment using Nessus Essentials](https://github.com/oluwaseunadenuga/grc_project)**
 
-## Analysing the impact of APT Breach on information security Project
+## Analysing the impact of APT Breach on the information security Project
 - **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
 ## Implementing Risk Assessment in a Telecom Services Company
