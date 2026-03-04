@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Tenable vulnerability scanning lab with Azure VM - credentialed scans and finding analysis
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
-##  Nessus vulnerability scanning lab with Metasploit2-uncredentialed scans
+##  Nessus vulnerability scanning lab with Metasploit2-unauthenticated scans
 - **[Vulnerability Assessment with Nessus Essentials and Metasploit2](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
 ##  Nessus vulnerability scanning lab - credentialed scans and finding analysis
