@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Assessment using Nessus Essentials](https://github.com/oluwaseunadenuga/grc_project)**
 
 ##  SpiderFoot OSINT Reconnaissance Lab
-- **[Spiderfoot OSINT Reconnaissance Lab](https://github.com/oluwaseunadenuga/SpiderFoot-OSINT-Lab)
+- [Spiderfoot OSINT Reconnaissance Lab](https://github.com/oluwaseunadenuga/SpiderFoot-OSINT-Lab)
 
 ## [APT breach: Analysing the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
