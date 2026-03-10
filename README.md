@@ -12,8 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ##  Nessus vulnerability scanning lab - credentialed scans and finding analysis
 - **[Vulnerability Assessment using Nessus Essentials](https://github.com/oluwaseunadenuga/grc_project)**
 
-## Analysing the impact of APT Breach on the information security Project
-- **[APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
+##  SpiderFoot OSINT Reconnaissance LabN
+- **[Vulnerability Assessment using Nessus Essentials](https://github.com/oluwaseunadenuga/grc_project)
+
+## [APT breach:Analysisng the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
 ## Implementing Risk Assessment in a Telecom Services Company
 - **[Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
