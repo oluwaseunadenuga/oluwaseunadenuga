@@ -34,3 +34,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - Mastercard Cybersecurity Job Simulation, Forage, January 2025
 - Tata Group Cybersecurity Analyst Job Simulation, Forage, January 2025
 - Scrum Fundamental Certified, SCRUM study, June 2023
+
