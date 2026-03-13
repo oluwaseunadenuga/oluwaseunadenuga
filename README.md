@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [ThreatLens-Threat Intelligence & Attack Surface Mapping Platform](https://github.com/oluwaseunadenuga/ThreatLens_-Lab) 
 
 ## Implementing Risk Assessment in a Telecom Services Company
-- **[Cybersecurity Risk Assessment for Datacom](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
+- **[Cybersecurity Risk Assessment for a Telecom Services Company](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
 
 ##  Implementing Risk Assessment in a Contact Centre Organisation
 - **[Implementing Risk-Management Strategies for a Call Center Security](https://github.com/oluwaseunadenuga/Risk-Management-for-Call-Center-Security)**
