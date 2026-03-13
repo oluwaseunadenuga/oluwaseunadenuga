@@ -15,6 +15,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ##  SpiderFoot OSINT Reconnaissance Lab
 - [Spiderfoot OSINT Reconnaissance Lab](https://github.com/oluwaseunadenuga/SpiderFoot-OSINT-Lab)
 
+##  ThreatLens
+- [ThreatLens - Threat Intelligence & Attack Surface Mapping Platform]https://github.com/oluwaseunadenuga/ThreatLens_Lab) 
+
 ## [APT breach: Analysing the impact on information security](https://github.com/oluwaseunadenuga/grc_project)**
 
 ## Implementing Risk Assessment in a Telecom Services Company
