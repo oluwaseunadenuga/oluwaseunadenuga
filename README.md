@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [Spiderfoot OSINT Reconnaissance Lab](https://github.com/oluwaseunadenuga/SpiderFoot-OSINT-Lab)
 
 ##  AI Threat Intelligence & Attack Surface Mapping Project
-- [ThreatLens-Threat Intelligence & Attack Surface Mapping Platform](https://github.com/oluwaseunadenuga/ThreatLens-Lab) 
+- [ThreatLens-Threat Intelligence & Attack Surface Mapping Platform](https://github.com/oluwaseunadenuga/ThreatLens_Lab)
 
 ## Implementing Risk Assessment in a Telecom Services Company
 - **[Cybersecurity Risk Assessment for a Telecom Services Company](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
@@ -23,7 +23,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ##  Implementing Risk Assessment in a Contact Centre Organisation
 - **[Implementing Risk-Management Strategies for a Call Center Security](https://github.com/oluwaseunadenuga/Risk-Management-for-Call-Center-Security)**
 
-## **CERTIFICATIONS**
+## CERTIFICATIONS
 - IBM Vulnerability Management, January 2026
 - Cisco Introduction to Cybersecurity, December 2025
 - Vulnerability Assessment Lab, Hack the Box, November 2025, 
