@@ -2,6 +2,9 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to risk assessment, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+##  AI Threat Intelligence & Attack Surface Mapping Project
+- [ThreatLens-Threat Intelligence & Attack Surface Mapping Platform](https://github.com/oluwaseunadenuga/ThreatLens-Lab)
+
 ## Tenable vulnerability scanning with Azure VM - credentialed scans and finding analysis
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
@@ -14,8 +17,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ##  SpiderFoot OSINT Reconnaissance Lab
 - [Spiderfoot OSINT Reconnaissance Lab](https://github.com/oluwaseunadenuga/SpiderFoot-OSINT-Lab)
 
-##  ThreatLens:Threat Intelligence & Attack Surface Mapping Platform Lab
-- [ThreatLens-Threat Intelligence & Attack Surface Mapping Platform](https://github.com/oluwaseunadenuga/ThreatLens_-Lab) 
+##  AI Threat Intelligence & Attack Surface Mapping Project
+- [ThreatLens-Threat Intelligence & Attack Surface Mapping Platform](https://github.com/oluwaseunadenuga/ThreatLens-Lab) 
 
 ## Implementing Risk Assessment in a Telecom Services Company
 - **[Cybersecurity Risk Assessment for a Telecom Services Company](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
