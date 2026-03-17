@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [Spiderfoot OSINT Reconnaissance Lab](https://github.com/oluwaseunadenuga/SpiderFoot-OSINT-Lab)
 
 ##  Enhancing Information Security in a Financial Institution through Risk Management
-- [Enhancing Security in a Financial Institution through Risk Management](ttps://github.com/oluwaseunadenuga/Risk-Management-in-Financial-Institutions)
+- [Enhancing Security in a Financial Institution through Risk Management](https://github.com/oluwaseunadenuga/Risk-Management-in-Financial-Institutions)
 
 ##  AI Threat Intelligence & Attack Surface Mapping Project
 - [ThreatLens-Threat Intelligence & Attack Surface Mapping Platform](https://github.com/oluwaseunadenuga/ThreatLens_Lab)
