@@ -8,8 +8,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Tenable vulnerability scanning with Azure VM - credentialed scans and finding analysis
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
-- https://github.com/oluwaseunadenuga/homelab-soc-siem-microsoft-sentinel
-
 ##  Nessus vulnerability scanning lab with Metasploit2-unauthenticated scans
 - **[Vulnerability Assessment with Nessus Essentials and Metasploit2](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
@@ -27,9 +25,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Implementing Risk Assessment in a Telecom Services Company
 - **[Cybersecurity Risk Assessment for a Telecom Services Company](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
-
-##  Implementing Risk Assessment in a Contact Centre Organisation
-- **[Implementing Risk-Management Strategies for a Call Center Security](https://github.com/oluwaseunadenuga/Risk-Management-for-Call-Center-Security)**
 
 ## CERTIFICATIONS
 - IBM Vulnerability Management, January 2026
