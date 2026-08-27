@@ -2,8 +2,13 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to risk assessment, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## Homelab SOC SIEM Microsoft-Sentinel
+- **[Homelab SOC SIEM Microsoft-Sentinel](https://github.com/oluwaseunadenuga/homelab-soc-siem-microsoft-sentinel)**
+
 ## Tenable vulnerability scanning with Azure VM - credentialed scans and finding analysis
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
+
+- https://github.com/oluwaseunadenuga/homelab-soc-siem-microsoft-sentinel
 
 ##  Nessus vulnerability scanning lab with Metasploit2-unauthenticated scans
 - **[Vulnerability Assessment with Nessus Essentials and Metasploit2](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
