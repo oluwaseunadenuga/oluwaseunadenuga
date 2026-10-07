@@ -2,6 +2,9 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to risk assessment, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## Tenable Vulnerability Assessment with Tenable - Credentialed scans and finding analysis
+- **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
+
 ## Homelab SOC SIEM - Live Attacker Detection with Microsoft Sentinel
 - **[Homelab SOC SIEM Microsoft-Sentinel](https://github.com/oluwaseunadenuga/homelab-soc-siem-microsoft-sentinel)**
 
@@ -27,14 +30,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Cybersecurity Risk Assessment for a Telecom Services Company](https://github.com/oluwaseunadenuga/Datacom-Cybersecurity-Risk-Assessement)**
 
 ## CERTIFICATIONS
+- Quays Vulnerability Management, Infosys, October 2026
+- Infosys Vulnerability Assessment, July 2026
 - IBM Vulnerability Management, January 2026
 - Cisco Introduction to Cybersecurity, December 2025
 - Vulnerability Assessment Lab, Hack the Box, November 2025, 
-- Vulnerability Management with Nessus, October 2025
-- Certified ISO/IEC 27001:2022 Lead Auditor, July 2025, Mastermind Assurance
+- Vulnerability Management with Nessus, Linkedin, October 2025
+- Certified ISO/IEC 27001:2022 Lead Auditor, Mastermind Assurance,  July 2025
 - Qualys Vulnerability Management Foundation Certificate, January 2025
-- Datacom Cybersecurity Job Simulation, Forage, January 2025
-- Mastercard Cybersecurity Job Simulation, Forage, January 2025
-- Tata Group Cybersecurity Analyst Job Simulation, Forage, January 2025
-- Scrum Fundamental Certified, SCRUM study, June 2023
+- Forage job simulations: Datacom, Mastercard, Tata Group Cybersecurity Analyst, January 2025
 
