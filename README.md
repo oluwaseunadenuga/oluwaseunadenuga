@@ -2,13 +2,13 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to risk assessment, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## Tenable Vulnerability Assessment with Tenable - Credentialed scans and finding analysis
+## Qualys Vulnerability Management with Oracle VM, Network Windows devices - Cloud Agent scans and finding analysis
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
 ## Homelab SOC SIEM - Live Attacker Detection with Microsoft Sentinel
 - **[Homelab SOC SIEM Microsoft-Sentinel](https://github.com/oluwaseunadenuga/homelab-soc-siem-microsoft-sentinel)**
 
-## Tenable Vulnerability Assessment with Tenable - Credentialed scans and finding analysis
+## Vulnerability Assessment with Tenable Enterprise Management - Credentialed scans and finding analysis
 - **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
 ##  Vulnerability Assessment with Nessus and with Metasploit2-unauthenticated scans
