@@ -8,9 +8,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Homelab SOC SIEM - Live Attacker Detection with Microsoft Sentinel
 - **[Homelab SOC SIEM Microsoft-Sentinel](https://github.com/oluwaseunadenuga/homelab-soc-siem-microsoft-sentinel)**
 
-## Vulnerability Assessment with Tenable Enterprise Management - Credentialed scans and finding analysis
-- **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program2)**
-
 ##  Vulnerability Assessment with Nessus and with Metasploit2-unauthenticated scans
 - **[Vulnerability Assessment with Nessus Essentials and Metasploit2](https://github.com/oluwaseunadenuga/Vulnerability-Assessment)**
 
