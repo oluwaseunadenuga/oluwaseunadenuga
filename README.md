@@ -3,7 +3,7 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to risk assessment, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## Vulnerability Management with Qualys VMDR - Cloud Agent scans and finding analysis
-- **[Qualys Vulnerability Management Project](https://github.com/oluwaseunadenuga/Qualys_vulnerability-management)**
+- **[Vulnerability Management Program Implementation](https://github.com/oluwaseunadenuga/vulnerability-management--program)**
 
 ## Homelab SOC SIEM - Live Attacker Detection with Microsoft Sentinel
 - **[Homelab SOC SIEM Microsoft-Sentinel](https://github.com/oluwaseunadenuga/homelab-soc-siem-microsoft-sentinel)**
